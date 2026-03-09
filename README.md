@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
+
+- ⚡ Fun fact: ...
+-->
 - 🔭 I’m currently working on private projects
 - 🌱 I’m currently learning my way around react native & expo
 - 📫 How to reach me: reubenmoloney03@gmail.com
-- ⚡ Fun fact: ...
--->
